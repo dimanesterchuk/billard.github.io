@@ -1,2 +1,2 @@
 # billard.github.io
-Billard Store
+Первый бильярдный магазин Украины
